@@ -1,0 +1,63 @@
+about:
+  description: Graph-Native Infrastructure for Context and Accountable AI Systems
+  license: MIT
+  homepage: https://getsemantica.ai
+  head: da642f1
+  archived: false
+  latestVersion: v0.6.7
+  collectedAt: 2026-08-29T07:11:20Z
+timeline:
+  created: 2025-06-25
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 11158
+  watcher: 60
+  fork: 1215
+  release: 22
+  contributor: 75
+  pullRequest: 149
+  issue: 342
+language:
+  Python: 11504879
+  TypeScript: 1050382
+  CSS: 9417
+  JavaScript: 8173
+  Bicep: 3470
+  Dockerfile: 1246
+  Go Template: 1086
+  HTML: 380
+totalLine: 12579033
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 3
+    mergedPR: 182
+    openPR: 36
+    closedIssue: 121
+    openIssue: 33
+    commit: 322
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 368
+    openPR: 37
+    closedIssue: 159
+    openIssue: 34
+    commit: 706
+  last180d:
+    since: 2026-03-02
+    release: 9
+    mergedPR: 492
+    openPR: 37
+    closedIssue: 228
+    openIssue: 34
+    commit: 1134
+  last360d:
+    since: 2025-09-03
+    release: 22
+    mergedPR: 746
+    openPR: 37
+    closedIssue: 307
+    openIssue: 35
+    commit: 1930
