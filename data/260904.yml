@@ -7,13 +7,13 @@ about:
   head: 820f725
   archived: false
   latestVersion: v0.6.7
-  collectedAt: 2026-09-04T19:49:22Z
+  collectedAt: 2026-09-04T20:51:51Z
 timeline:
   created: 2025-06-25
   lastCommit: 2026-09-04
   lastRelease: 2026-08-28
 popularity:
-  star: 11984
+  star: 11988
   watcher: 63
   fork: 1350
   release: 22
@@ -87,6 +87,94 @@ total:
   openIssue: 58
   commit: 2833
 ---
+path: /home/runner/.x-repo/github.com/semantica-agi/semantica
+collectedAt: 2026-09-04T20:51:53Z
+loc:
+  Python:
+    code: 265538
+    comments: 15310
+    blanks: 45404
+    files: 787
+  Tsx:
+    code: 20529
+    comments: 244
+    blanks: 1538
+    files: 46
+  TypeScript:
+    code: 10991
+    comments: 207
+    blanks: 1242
+    files: 54
+  Json:
+    code: 6684
+    comments: 0
+    blanks: 5
+    files: 9
+  Jupyter:
+    code: 5486
+    comments: 3111
+    blanks: 2151
+    files: 40
+  Yaml:
+    code: 1131
+    comments: 71
+    blanks: 40
+    files: 27
+  Svg:
+    code: 603
+    comments: 76
+    blanks: 110
+    files: 11
+  Css:
+    code: 479
+    comments: 23
+    blanks: 74
+    files: 4
+  Toml:
+    code: 265
+    comments: 61
+    blanks: 44
+    files: 3
+  JavaScript:
+    code: 189
+    comments: 15
+    blanks: 27
+    files: 4
+  Dockerfile:
+    code: 30
+    comments: 32
+    blanks: 12
+    files: 1
+  Pan:
+    code: 26
+    comments: 0
+    blanks: 3
+    files: 1
+  Html:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Autoconf:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 21822
+    blanks: 10467
+    files: 153
+  Text:
+    code: 0
+    comments: 7962
+    blanks: 0
+    files: 1
+total:
+  code: 341764
+  comments: 56284
+  blanks: 68941
+  files: 1143
 ---
 date: "2026-09-04T19:39:08Z"
 repo:
