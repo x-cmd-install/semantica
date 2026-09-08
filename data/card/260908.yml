@@ -5,19 +5,19 @@ about:
   head: c449209
   archived: false
   latestVersion: "v0.6.8"
-  collectedAt: 2026-09-08T01:31:51Z
+  collectedAt: 2026-09-08T04:23:20Z
 timeline:
   created: 2025-06-25
   lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 12291
+  star: 12312
   watcher: 65
   fork: 1385
   release: 23
   contributor: 93
-  pullRequest: 1078
-  issue: 428
+  pullRequest: 1079
+  issue: 429
 language:
   Python: 12581591
   TypeScript: 1205494
@@ -33,60 +33,60 @@ recent:
     since: 2026-08-09
     release: 4
     mergedPR: 276
-    openPR: 43
+    openPR: 44
     closedIssue: 152
-    openIssue: 59
+    openIssue: 60
     commit: 368
   last60d:
     since: 2026-07-10
     release: 5
     mergedPR: 354
-    openPR: 45
+    openPR: 46
     closedIssue: 218
-    openIssue: 59
+    openIssue: 60
     commit: 623
   last90d:
     since: 2026-06-10
     release: 6
     mergedPR: 466
-    openPR: 45
+    openPR: 46
     closedIssue: 220
-    openIssue: 59
+    openIssue: 60
     commit: 802
   last180d:
     since: 2026-03-12
     release: 8
     mergedPR: 602
-    openPR: 45
+    openPR: 46
     closedIssue: 285
-    openIssue: 59
+    openIssue: 60
     commit: 1253
   last360d:
     since: 2025-09-13
     release: 23
     mergedPR: 870
-    openPR: 45
+    openPR: 46
     closedIssue: 369
-    openIssue: 59
+    openIssue: 60
     commit: 2112
   last720d:
     since: 2024-09-18
     release: 23
     mergedPR: 870
-    openPR: 45
+    openPR: 46
     closedIssue: 369
-    openIssue: 59
+    openIssue: 60
     commit: 2873
 total:
   release: 23
   mergedPR: 870
-  openPR: 45
+  openPR: 46
   closedIssue: 369
-  openIssue: 59
+  openIssue: 60
   commit: 2873
 ---
 path: /home/runner/.x-repo/github.com/semantica-agi/semantica
-collectedAt: 2026-09-08T01:31:56Z
+collectedAt: 2026-09-08T04:23:27Z
 loc:
   Python:
     code: 270757

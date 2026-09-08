@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2485303,
       "digest": "sha256:0af4d9dd9b01503e0d72c0ae6b0703364d01dd1443e42bc7e9a6f415835917d7",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-05T14:00:59Z",
       "updated_at": "2026-09-05T14:00:59Z",
       "browser_download_url": "https://github.com/semantica-agi/semantica/releases/download/v0.6.8/semantica-0.6.8-py3-none-any.whl"
