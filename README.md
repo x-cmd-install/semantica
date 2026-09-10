@@ -1,24 +1,75 @@
 # semantica
 
+[中文版本](./README.cn.md)
+
 Graph-Native Infrastructure for Context and Accountable AI Systems
 
-- **Upstream**: <https://github.com/semantica-agi/semantica>
-- **Homepage**: <https://getsemantica.ai>
-- **Latest release**: `v0.6.8` (2026-09-05)
-- **Last commit**: 2026-09-09
-- **License**: MIT
-- **Stars**: 12506 · **Forks**: 1402 · **Open issues**: 436 · **Contributors**: 96
+![semantica](https://repo.x-cmd.io/semantica.svg)
 
-## Installation
+## Install
 
 ```sh
 x install semantica
 ```
 
-See <https://x-cmd.com/install/semantica> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/semantica-agi/semantica>
+- **Homepage**: <https://getsemantica.ai>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:32:29Z._
+- **Latest**: `v0.6.8` (2026-09-05)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 4
+- **Published**: 2026-09-05T14:01:00Z
+
+## Popularity
+
+- **Stars**: 12,537 · **Forks**: 1,404 · **Open issues**: 436 · **Contributors**: 96
+
+## Totals (cumulative)
+
+- **Releases**: 23 · **Merged PRs**: 886 · **Open PRs**: 37 · **Closed issues**: 377 · **Open issues**: 59 · **Commits**: 2898
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 265 | 35 | 152 | 59 | 388 |
+| 90d | 2026-06-12 | 6 | 474 | 37 | 228 | 59 | 822 |
+| 360d | 2025-09-15 | 23 | 886 | 37 | 377 | 59 | 2132 |
+
+## Code size
+
+Total: **321,409** lines of code across **962** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 274,074 | 15,972 | 46,905 | 806 |
+| Tsx | 20,536 | 307 | 1,546 | 46 |
+| TypeScript | 11,858 | 297 | 1,333 | 61 |
+| Json | 6,684 | 0 | 5 | 9 |
+| Jupyter | 5,486 | 3,111 | 2,151 | 40 |
+
+## OpenSSF Scorecard
+
+Overall score: **8.1 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (1/10) — 1 out of the last 5 releases have a total of 1 signed artifacts.
+- **Fuzzing** (0/10) — project is not fuzzed
+
+## Improve this data
+
+Install metadata for semantica lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `semantica` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/semantica.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:27:38Z._
