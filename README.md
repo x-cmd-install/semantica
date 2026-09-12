@@ -30,9 +30,9 @@ Overall score: **8 / 10**
 
 Lowest-scoring checks:
 
+- **Signed-Releases** (1/10) — 1 out of the last 5 releases have a total of 1 signed artifacts.
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (1/10) — 1 out of the last 5 releases have a total of 1 signed artifacts.
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,684 · **Forks**: 1,420 · **Open issues**: 458 · **Contributors**: 101
+- **Stars**: 12,706 · **Forks**: 1,420 · **Open issues**: 458 · **Contributors**: 101
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 3 | 262 | 42 | 147 | 70 | 404 |
-| last60d | 2026-07-13 | 5 | 383 | 42 | 237 | 70 | 659 |
-| 90d | 2026-06-13 | 6 | 481 | 42 | 239 | 70 | 838 |
-| last180d | 2026-03-15 | 8 | 626 | 42 | 295 | 70 | 1289 |
-| 360d | 2025-09-16 | 23 | 899 | 42 | 388 | 70 | 2148 |
-| last720d | 2024-09-21 | 23 | 899 | 42 | 388 | 70 | 2919 |
+| 30d | 2026-08-13 | 3 | 257 | 42 | 140 | 70 | 404 |
+| last60d | 2026-07-14 | 5 | 380 | 42 | 232 | 70 | 659 |
+| 90d | 2026-06-14 | 6 | 480 | 42 | 239 | 70 | 838 |
+| last180d | 2026-03-16 | 8 | 625 | 42 | 295 | 70 | 1289 |
+| 360d | 2025-09-17 | 23 | 899 | 42 | 388 | 70 | 2148 |
+| last720d | 2024-09-22 | 23 | 899 | 42 | 388 | 70 | 2919 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for semantica lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:38:48Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:23:58Z._
