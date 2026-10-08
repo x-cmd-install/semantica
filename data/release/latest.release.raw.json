@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2691390,
       "digest": "sha256:faf27d6259ae813ddb44c5213e2f8867592f27e6e3d6b47cea10f1844513799f",
-      "download_count": 21,
+      "download_count": 25,
       "created_at": "2026-09-22T11:18:02Z",
       "updated_at": "2026-09-22T11:18:02Z",
       "browser_download_url": "https://github.com/semantica-agi/semantica/releases/download/v0.7.0/semantica-0.7.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11161,
       "digest": "sha256:49fbf13d32eb07cb616a4a8af85186f5f5770a9007f815f4219d5dfae6b3dae8",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-22T11:18:02Z",
       "updated_at": "2026-09-22T11:18:02Z",
       "browser_download_url": "https://github.com/semantica-agi/semantica/releases/download/v0.7.0/semantica-0.7.0-py3-none-any.whl.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2714872,
       "digest": "sha256:9da8ab2c204874e2720bdd36040524c958ade23e7378ccefbfea5d2b340f420f",
-      "download_count": 19,
+      "download_count": 23,
       "created_at": "2026-09-22T11:18:02Z",
       "updated_at": "2026-09-22T11:18:02Z",
       "browser_download_url": "https://github.com/semantica-agi/semantica/releases/download/v0.7.0/semantica-0.7.0.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11106,
       "digest": "sha256:61f33516f09f30ae0886829efdba8eca67969c8285bfab2addad1febc6fb2d35",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-22T11:18:02Z",
       "updated_at": "2026-09-22T11:18:02Z",
       "browser_download_url": "https://github.com/semantica-agi/semantica/releases/download/v0.7.0/semantica-0.7.0.tar.gz.sigstore.json"
