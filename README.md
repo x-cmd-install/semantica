@@ -14,11 +14,11 @@ x install semantica
 
 ## Code insight
 
-Total: **380,125** lines of code across **1104** files in the top 5 languages.
+Total: **380,768** lines of code across **1106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 332,622 | 19,071 | 57,173 | 943 |
+| Python | 333,265 | 19,097 | 57,336 | 945 |
 | Tsx | 20,571 | 311 | 1,548 | 46 |
 | TypeScript | 11,945 | 297 | 1,344 | 65 |
 | Json | 6,714 | 0 | 5 | 10 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,880 · **Forks**: 1,597 · **Open issues**: 582 · **Contributors**: 121
+- **Stars**: 13,914 · **Forks**: 1,602 · **Open issues**: 587 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 1058 · **Open PRs**: 44 · **Closed issues**: 510 · **Open issues**: 72 · **Commits**: 3129
+- **Releases**: 24 · **Merged PRs**: 1060 · **Open PRs**: 52 · **Closed issues**: 511 · **Open issues**: 76 · **Commits**: 3132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 1 | 137 | 44 | 76 | 55 | 182 |
-| last60d | 2026-08-11 | 5 | 438 | 44 | 286 | 72 | 603 |
-| 90d | 2026-07-12 | 6 | 542 | 44 | 359 | 72 | 841 |
-| last180d | 2026-04-13 | 8 | 741 | 44 | 393 | 72 | 1282 |
-| 360d | 2025-10-15 | 24 | 1058 | 44 | 510 | 72 | 2324 |
-| last720d | 2024-10-20 | 24 | 1058 | 44 | 510 | 72 | 3129 |
+| 30d | 2026-09-11 | 1 | 129 | 52 | 73 | 58 | 185 |
+| last60d | 2026-08-12 | 4 | 424 | 52 | 271 | 76 | 606 |
+| 90d | 2026-07-13 | 6 | 544 | 52 | 360 | 76 | 844 |
+| last180d | 2026-04-14 | 8 | 738 | 52 | 394 | 76 | 1285 |
+| 360d | 2025-10-16 | 24 | 1060 | 52 | 511 | 76 | 2327 |
+| last720d | 2024-10-21 | 24 | 1060 | 52 | 511 | 76 | 3132 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for semantica lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:38:36Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:35:21Z._
