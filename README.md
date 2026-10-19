@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,098 · **Forks**: 1,680 · **Open issues**: 608 · **Contributors**: 131
+- **Stars**: 14,127 · **Forks**: 1,718 · **Open issues**: 609 · **Contributors**: 131
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 1088 · **Open PRs**: 52 · **Closed issues**: 532 · **Open issues**: 76 · **Commits**: 3158
+- **Releases**: 24 · **Merged PRs**: 1088 · **Open PRs**: 53 · **Closed issues**: 532 · **Open issues**: 77 · **Commits**: 3158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 125 | 50 | 84 | 57 | 174 |
-| last60d | 2026-08-19 | 4 | 375 | 52 | 229 | 76 | 546 |
-| 90d | 2026-07-20 | 6 | 550 | 52 | 370 | 76 | 832 |
-| last180d | 2026-04-21 | 8 | 754 | 52 | 409 | 76 | 1277 |
-| 360d | 2025-10-23 | 24 | 1088 | 52 | 532 | 76 | 2337 |
-| last720d | 2024-10-28 | 24 | 1088 | 52 | 532 | 76 | 3158 |
+| 30d | 2026-09-19 | 1 | 123 | 51 | 82 | 56 | 119 |
+| last60d | 2026-08-20 | 4 | 366 | 53 | 215 | 77 | 452 |
+| 90d | 2026-07-21 | 6 | 549 | 53 | 358 | 77 | 782 |
+| last180d | 2026-04-22 | 8 | 752 | 53 | 408 | 77 | 1257 |
+| 360d | 2025-10-24 | 24 | 1088 | 53 | 532 | 77 | 2333 |
+| last720d | 2024-10-29 | 24 | 1088 | 53 | 532 | 77 | 3158 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for semantica lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:17:41Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:26:36Z._
