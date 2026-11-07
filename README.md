@@ -14,11 +14,11 @@ x install semantica
 
 ## Code insight
 
-Total: **397,097** lines of code across **1163** files in the top 5 languages.
+Total: **397,916** lines of code across **1169** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 349,398 | 19,950 | 60,060 | 1000 |
+| Python | 350,217 | 19,990 | 60,230 | 1006 |
 | Tsx | 20,571 | 311 | 1,548 | 46 |
 | TypeScript | 11,945 | 297 | 1,344 | 65 |
 | Json | 6,866 | 0 | 5 | 12 |
@@ -31,8 +31,8 @@ Overall score: **8.1 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Signed-Releases** (3/10) — 2 out of the last 5 releases have a total of 2 signed artifacts.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.7.0` (2026-09-22)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-07
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 14,450 · **Forks**: 1,703 · **Open issues**: 671 · **Contributors**: 142
+- **Stars**: 14,460 · **Forks**: 1,705 · **Open issues**: 675 · **Contributors**: 144
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 1167 · **Open PRs**: 51 · **Closed issues**: 594 · **Open issues**: 77 · **Commits**: 3241
+- **Releases**: 24 · **Merged PRs**: 1174 · **Open PRs**: 47 · **Closed issues**: 601 · **Open issues**: 74 · **Commits**: 3251
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 103 | 43 | 63 | 37 | 119 |
-| last60d | 2026-09-07 | 1 | 273 | 51 | 181 | 63 | 313 |
-| 90d | 2026-08-08 | 5 | 579 | 51 | 392 | 77 | 761 |
-| last180d | 2026-05-10 | 8 | 805 | 51 | 452 | 77 | 1285 |
-| 360d | 2025-11-11 | 24 | 1150 | 51 | 594 | 77 | 2333 |
-| last720d | 2024-11-16 | 24 | 1167 | 51 | 594 | 77 | 3241 |
+| 30d | 2026-10-08 | 0 | 99 | 38 | 65 | 33 | 128 |
+| last60d | 2026-09-08 | 1 | 275 | 47 | 184 | 60 | 322 |
+| 90d | 2026-08-09 | 5 | 580 | 47 | 384 | 74 | 770 |
+| last180d | 2026-05-11 | 8 | 811 | 47 | 459 | 74 | 1294 |
+| 360d | 2025-11-12 | 24 | 1157 | 47 | 601 | 74 | 2342 |
+| last720d | 2024-11-17 | 24 | 1174 | 47 | 601 | 74 | 3251 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for semantica lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:22:28Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:47:09Z._
