@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Graph-Native Infrastructure for Context and Accountable AI Systems
+Graph-Native Semantic Layer for Trustworthy Enterprise AI 
 
 [![x-cmd/install — semantica Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/semantica.svg)](https://x-cmd.com/install/semantica)
 
@@ -31,8 +31,8 @@ Overall score: **8.4 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Signed-Releases** (3/10) — 2 out of the last 5 releases have a total of 2 signed artifacts.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.7.0` (2026-09-22)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 14,634 · **Forks**: 1,735 · **Open issues**: 693 · **Contributors**: 152
+- **Stars**: 14,662 · **Forks**: 1,739 · **Open issues**: 693 · **Contributors**: 152
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 1190 · **Open PRs**: 57 · **Closed issues**: 616 · **Open issues**: 77 · **Commits**: 3273
+- **Releases**: 24 · **Merged PRs**: 1192 · **Open PRs**: 58 · **Closed issues**: 616 · **Open issues**: 77 · **Commits**: 3275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 86 | 33 | 56 | 28 | 95 |
-| last60d | 2026-09-18 | 1 | 231 | 55 | 168 | 58 | 249 |
-| 90d | 2026-08-19 | 4 | 480 | 57 | 313 | 77 | 585 |
-| last180d | 2026-05-21 | 7 | 821 | 57 | 474 | 77 | 1251 |
-| 360d | 2025-11-22 | 23 | 1143 | 57 | 616 | 77 | 2241 |
-| last720d | 2024-11-27 | 24 | 1190 | 57 | 616 | 77 | 3273 |
+| 30d | 2026-10-20 | 0 | 82 | 31 | 53 | 26 | 97 |
+| last60d | 2026-09-20 | 1 | 228 | 56 | 162 | 55 | 251 |
+| 90d | 2026-08-21 | 3 | 464 | 58 | 293 | 77 | 587 |
+| last180d | 2026-05-23 | 7 | 818 | 58 | 474 | 77 | 1253 |
+| 360d | 2025-11-24 | 23 | 1139 | 58 | 616 | 77 | 2243 |
+| last720d | 2024-11-29 | 24 | 1192 | 58 | 616 | 77 | 3275 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for semantica lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:51:26Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:09:33Z._

@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Graph-Native Infrastructure for Context and Accountable AI Systems
+Graph-Native Semantic Layer for Trustworthy Enterprise AI 
 
 [![x-cmd/install — semantica Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/semantica.svg?lang=zh)](https://x-cmd.com/install/semantica)
 
@@ -31,8 +31,8 @@ x install semantica
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Signed-Releases** (3/10) — 2 out of the last 5 releases have a total of 2 signed artifacts.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install semantica
 ## 发布
 
 - **最新版本**: `v0.7.0` (2026-09-22)
-- **最近提交**: 2026-11-16
+- **最近提交**: 2026-11-17
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 14,634 · **Fork**: 1,735 · **开放 issue**: 693 · **贡献者**: 152
+- **Star**: 14,662 · **Fork**: 1,739 · **开放 issue**: 693 · **贡献者**: 152
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 1190 · **开放 PR**: 57 · **已关闭 issue**: 616 · **开放 issue**: 77 · **提交数**: 3273
+- **发布数**: 24 · **已合并 PR**: 1192 · **开放 PR**: 58 · **已关闭 issue**: 616 · **开放 issue**: 77 · **提交数**: 3275
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 86 | 33 | 56 | 28 | 95 |
-| last60d | 2026-09-18 | 1 | 231 | 55 | 168 | 58 | 249 |
-| 90d | 2026-08-19 | 4 | 480 | 57 | 313 | 77 | 585 |
-| last180d | 2026-05-21 | 7 | 821 | 57 | 474 | 77 | 1251 |
-| 360d | 2025-11-22 | 23 | 1143 | 57 | 616 | 77 | 2241 |
-| last720d | 2024-11-27 | 24 | 1190 | 57 | 616 | 77 | 3273 |
+| 30d | 2026-10-20 | 0 | 82 | 31 | 53 | 26 | 97 |
+| last60d | 2026-09-20 | 1 | 228 | 56 | 162 | 55 | 251 |
+| 90d | 2026-08-21 | 3 | 464 | 58 | 293 | 77 | 587 |
+| last180d | 2026-05-23 | 7 | 818 | 58 | 474 | 77 | 1253 |
+| 360d | 2025-11-24 | 23 | 1139 | 58 | 616 | 77 | 2243 |
+| last720d | 2024-11-29 | 24 | 1192 | 58 | 616 | 77 | 3275 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ semantica 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T07:51:27Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:09:34Z._
