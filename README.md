@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.7.0` (2026-09-22)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-22
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 14,713 · **Forks**: 1,747 · **Open issues**: 694 · **Contributors**: 151
+- **Stars**: 14,740 · **Forks**: 1,752 · **Open issues**: 695 · **Contributors**: 151
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 1191 · **Open PRs**: 59 · **Closed issues**: 616 · **Open issues**: 78 · **Commits**: 3275
+- **Releases**: 24 · **Merged PRs**: 1192 · **Open PRs**: 59 · **Closed issues**: 616 · **Open issues**: 79 · **Commits**: 3279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 64 | 30 | 46 | 26 | 97 |
-| last60d | 2026-09-23 | 0 | 202 | 56 | 151 | 55 | 251 |
-| 90d | 2026-08-24 | 3 | 444 | 59 | 287 | 78 | 587 |
-| last180d | 2026-05-26 | 7 | 814 | 59 | 467 | 78 | 1253 |
-| 360d | 2025-11-27 | 20 | 1135 | 59 | 616 | 78 | 2243 |
-| last720d | 2024-12-02 | 24 | 1191 | 59 | 616 | 78 | 3275 |
+| 30d | 2026-10-24 | 0 | 65 | 31 | 46 | 27 | 59 |
+| last60d | 2026-09-24 | 0 | 198 | 56 | 146 | 56 | 202 |
+| 90d | 2026-08-25 | 3 | 443 | 59 | 284 | 79 | 516 |
+| last180d | 2026-05-27 | 7 | 815 | 59 | 467 | 79 | 1243 |
+| 360d | 2025-11-28 | 20 | 1136 | 59 | 616 | 79 | 2221 |
+| last720d | 2024-12-03 | 24 | 1192 | 59 | 616 | 79 | 3279 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for semantica lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:34:20Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:21:52Z._
