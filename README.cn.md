@@ -31,8 +31,8 @@ x install semantica
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (3/10) — 2 out of the last 5 releases have a total of 2 signed artifacts.
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (3/10) — 2 out of the last 5 releases have a total of 2 signed artifacts.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install semantica
 ## 发布
 
 - **最新版本**: `v0.7.0` (2026-09-22)
-- **最近提交**: 2026-11-22
+- **最近提交**: 2026-11-23
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 14,740 · **Fork**: 1,752 · **开放 issue**: 695 · **贡献者**: 151
+- **Star**: 14,767 · **Fork**: 1,752 · **开放 issue**: 697 · **贡献者**: 150
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 1192 · **开放 PR**: 59 · **已关闭 issue**: 616 · **开放 issue**: 79 · **提交数**: 3279
+- **发布数**: 24 · **已合并 PR**: 1191 · **开放 PR**: 63 · **已关闭 issue**: 615 · **开放 issue**: 82 · **提交数**: 3280
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 65 | 31 | 46 | 27 | 59 |
-| last60d | 2026-09-24 | 0 | 198 | 56 | 146 | 56 | 202 |
-| 90d | 2026-08-25 | 3 | 443 | 59 | 284 | 79 | 516 |
-| last180d | 2026-05-27 | 7 | 815 | 59 | 467 | 79 | 1243 |
-| 360d | 2025-11-28 | 20 | 1136 | 59 | 616 | 79 | 2221 |
-| last720d | 2024-12-03 | 24 | 1192 | 59 | 616 | 79 | 3279 |
+| 30d | 2026-10-25 | 0 | 58 | 35 | 42 | 30 | 60 |
+| last60d | 2026-09-25 | 0 | 190 | 60 | 138 | 59 | 203 |
+| 90d | 2026-08-26 | 3 | 441 | 63 | 282 | 82 | 517 |
+| last180d | 2026-05-28 | 7 | 813 | 63 | 466 | 82 | 1244 |
+| 360d | 2025-11-29 | 20 | 1135 | 63 | 615 | 82 | 2222 |
+| last720d | 2024-12-04 | 24 | 1191 | 63 | 615 | 82 | 3280 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ semantica 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T07:21:54Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T09:43:36Z._

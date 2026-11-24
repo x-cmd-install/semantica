@@ -31,8 +31,8 @@ Overall score: **8.3 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (3/10) — 2 out of the last 5 releases have a total of 2 signed artifacts.
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (3/10) — 2 out of the last 5 releases have a total of 2 signed artifacts.
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.7.0` (2026-09-22)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-23
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 14,740 · **Forks**: 1,752 · **Open issues**: 695 · **Contributors**: 151
+- **Stars**: 14,767 · **Forks**: 1,752 · **Open issues**: 697 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 1192 · **Open PRs**: 59 · **Closed issues**: 616 · **Open issues**: 79 · **Commits**: 3279
+- **Releases**: 24 · **Merged PRs**: 1191 · **Open PRs**: 63 · **Closed issues**: 615 · **Open issues**: 82 · **Commits**: 3280
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 65 | 31 | 46 | 27 | 59 |
-| last60d | 2026-09-24 | 0 | 198 | 56 | 146 | 56 | 202 |
-| 90d | 2026-08-25 | 3 | 443 | 59 | 284 | 79 | 516 |
-| last180d | 2026-05-27 | 7 | 815 | 59 | 467 | 79 | 1243 |
-| 360d | 2025-11-28 | 20 | 1136 | 59 | 616 | 79 | 2221 |
-| last720d | 2024-12-03 | 24 | 1192 | 59 | 616 | 79 | 3279 |
+| 30d | 2026-10-25 | 0 | 58 | 35 | 42 | 30 | 60 |
+| last60d | 2026-09-25 | 0 | 190 | 60 | 138 | 59 | 203 |
+| 90d | 2026-08-26 | 3 | 441 | 63 | 282 | 82 | 517 |
+| last180d | 2026-05-28 | 7 | 813 | 63 | 466 | 82 | 1244 |
+| 360d | 2025-11-29 | 20 | 1135 | 63 | 615 | 82 | 2222 |
+| last720d | 2024-12-04 | 24 | 1191 | 63 | 615 | 82 | 3280 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for semantica lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:21:52Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:43:35Z._
